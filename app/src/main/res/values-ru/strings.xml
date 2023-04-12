@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Кукушка</string>
+    <string name="year_lived">Прожито лет</string>
+    <string name="year_left">Осталось лет</string>
+    <string name="year_life_expectancy">Ожидаемая продолжительность жизни</string>
+    <string name="i_live_longer">Живу дольше на</string>
+    <string name="congratulate">Поздравляем! Вы превысили ожидаемую продолжительность жизни на</string>
+</resources>

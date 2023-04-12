@@ -1,8 +1,9 @@
 package ru.alexandrorlov.howmanymore.model
 
 data class Screen(
-    val height: Int,
-    val width: Int,
+    val height: Int = 0,
+    val width: Int = 0,
+    val density: Int = 0,
     val topBar: Bar,
     val bottomBar: Bar
 ) {

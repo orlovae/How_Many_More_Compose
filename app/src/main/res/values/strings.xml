@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">How Many More</string>
+    <string name="year_lived">Year lived</string>
+    <string name="year_left">Year left</string>
+    <string name="year_life_expectancy">Year life expectancy</string>
+    <string name="i_live_longer">I live longer by</string>
+    <string name="congratulate">Congratulations! You have exceeded your life expectancy by</string>
 </resources>
